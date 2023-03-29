@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Tilda Sans';
+    src: local('Tilda Sans Light'), local('Tilda-Sans-Light'),
+        url('TildaSans-Light.woff2') format('woff2'),
+        url('TildaSans-Light.woff') format('woff'),
+        url('TildaSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+  }
